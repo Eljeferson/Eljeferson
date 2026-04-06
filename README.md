@@ -1,9 +1,9 @@
 # Hola mi nombre es Jeferson Albornoz Peña👋
 
 ## 🚀 Acerca de mi 
-Hola soy Data Scientist con estudios en el bootcam Soy Henrry, actualmente estudiante del 6° ciclo de la carrera de ingenieria de sistemas e informamica.
+Hola soy Jeferson estudiante del 9° ciclo de la carrera de ingenieria de sistemas e informamica.
 
-Soy una persona con muchas ganas de aportar lo aprendido en base de datos, python, Power BI, etc. Cuento con experiencia en trabajos en equipo, asimismo tengo habilidades que aporto al momento
+Soy una persona con muchas ganas de aportar lo aprendido en base de datos, python,Java, Javascript, Power BI, etc. Cuento con experiencia en trabajos en equipo, asimismo tengo habilidades que aporto al momento
 de realizar proyectos; ademas, tengo una amplia disponiblidad de aprender nuevas cosas y asi ser mas proactivo en los diversos retos que se me presenten. 
 
 ## 🔗 Links
