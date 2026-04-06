@@ -10,7 +10,6 @@ de realizar proyectos; ademas, tengo una amplia disponiblidad de aprender nuevas
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jeferson-albornoz-peña-5018831bb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](micuentajeferson@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/MKV3FFELBZPTB1)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://soyhenry.slack.com/team/U054BK2Q606)
 
 ## 🛠 Skills
-Python, MySQL, Power BI, Git 
+Java, Javascript,Python, MySQL, PostgreSQL, Power BI, Git 
